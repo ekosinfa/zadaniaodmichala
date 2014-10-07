@@ -5,18 +5,18 @@
 
 $konta = array(
 
-"1"=array(
+"1"=>array(
   imie=>'Wioletta'
   nazwisko=>'Marcinek'
   stan_konta=>'6792zl'
   przedmiot=>'Polski'),
-"2"=array(
+"2"=>array(
   imie=>'Tomasz'
   nazwisko=>'Orka'
   stan_konta => '99zl'
   przedmiot=>'Biologia'
   ),
-"3"=array(
+"3"=>array(
   imie=>'Marta'
   nazwisko=>'Stopa'
   stan_konta=>'3151zl'
