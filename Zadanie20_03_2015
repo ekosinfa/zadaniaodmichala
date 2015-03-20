@@ -10,4 +10,20 @@ Gra on dla organizacji : Inshock
 (h2)nazywa sie Michał Muller
 (h3)jest z Polski
 
+<!DOCTYPE html>
+<html>
+<head lang="pl">
+    <meta charset="UTF-8">
+    <title>gracz</title>
+</head>
+<body>
+Mój ulubiony gracz to: Analfabeton <br>
+<img src="http://i.ytimg.com/vi/HTjfzZwiLmE/hqdefault.jpg" width="300"><br>
+Gra on dla organizacji: <a href="http://demland.info/">demland.info</a><br>
+<img src="http://demland.info/wp-content/uploads/2014/02/logo.png" width="300"><br>
 
+<h1>ma 20 lat</h1><br>
+<h2>nazywa się Alex Analfabeton</h2><br>
+<h3>jest z Polski</h3>
+</body>
+</html>
