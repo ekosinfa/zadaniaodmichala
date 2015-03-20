@@ -15,6 +15,9 @@ Gra on dla organizacji : Inshock
 <head lang="pl">
     <meta charset="UTF-8">
     <title>gracz</title>
+    <style type=”text/css”>
+    h1{color:red}
+    </style>
 </head>
 <body>
 Mój ulubiony gracz to: Analfabeton <br>
